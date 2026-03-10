@@ -4,7 +4,7 @@
 // Version     :
 // Copyright   : Your copyright notice
 // Description : 設置經度#include<iomanip>套件
- fixed << setprecision(3)小數點以下三位
+                 fixed << setprecision(3)小數點以下三位
 
 //============================================================================
 
