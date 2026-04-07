@@ -3,7 +3,7 @@
 // Author      : 
 // Version     :
 // Copyright   : Your copyright notice
-// Description : 運算子遞增，迴圈，一維陣列
+// Description :運算子遞增，迴圈，一維陣列
 //============================================================================
 
 #include <iostream>
